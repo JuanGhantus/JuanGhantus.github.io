@@ -10,7 +10,7 @@ Portfolio Juan Ghantus
 - <b>Infinite Scrolling through random pictures with Unsplash Infinite Scrolling API</b>
   - [Infinte Scrolling](https://github.com/JuanGhantus/InfiniteScrolling)
 - <b>Button Allowing Picture in Picture via screen capture</b>
-  - [Picture in Picture](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
 - <b>Rabdom Joke Generator using joke API</b>
   - [Joke Teller](https://github.com/joshmadakor1/EncrypterPOC)
 

@@ -8,7 +8,7 @@ Portfolio Juan Ghantus
 - <b>Generating random quotes with Quote API</b>
   - [Quote Generator](https://github.com/JuanGhantus/QuoteGenerator)
 - <b>Infinite Scrolling through random pictures with Unsplash Infinite Scrolling API</b>
-  - [Infinte Scrolling](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Infinte Scrolling](https://github.com/JuanGhantus/InfiniteScrolling)
 - <b>Button Allowing Picture in Picture via screen capture</b>
   - [Picture in Picture](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Rabdom Joke Generator using joke API</b>

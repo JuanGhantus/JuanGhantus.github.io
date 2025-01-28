@@ -6,7 +6,7 @@ Portfolio Juan Ghantus
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Generating random quotes with Quote API</b>
-  - [Quote Generator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Quote Generator](https://github.com/juanghantus/quote-generator)
 - <b>Infinite Scrolling through random pictures with Unsplash Infinite Scrolling API</b>
   - [Infinte Scrolling](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Button Allowing Picture in Picture via screen capture</b>

@@ -19,4 +19,9 @@
   - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
 - <b>Rabdom Joke Generator using joke API</b>
   - [Joke Teller](https://github.com/JuanGhantus/JokeTeller)
+<br>
+<h2>👨‍💻 Web Projects in Progress:</h2>
+
+- <b>Generating random quotes with Quote API</b>
+  - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
 

@@ -12,7 +12,7 @@ Portfolio Juan Ghantus
 - <b>Button Allowing Picture in Picture via screen capture</b>
   - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
 - <b>Rabdom Joke Generator using joke API</b>
-  - [Joke Teller](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Joke Teller]()
 
 <h2> 🤳 Connect with me:</h2>
 

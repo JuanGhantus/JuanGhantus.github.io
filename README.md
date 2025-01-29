@@ -1,5 +1,3 @@
-# Juan Ghantus
-
 <h1>Hi, I'm Juan! <br/><a href="https://github.com/juanghantus">Developer</a></h1>
 
 

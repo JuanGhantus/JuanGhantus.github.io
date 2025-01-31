@@ -22,6 +22,6 @@
 <br>
 <h2>👨‍💻 Web Projects in Progress:</h2>
 
-- <b>Generating random quotes with Quote API</b>
+- <b>Responsive Single Page Website</b>
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
 

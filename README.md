@@ -19,9 +19,11 @@
   - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
 - <b>Rabdom Joke Generator using joke API</b>
   - [Joke Teller](https://github.com/JuanGhantus/JokeTeller)
-<br>
-<h2>👨‍💻 Web Projects in Progress:</h2>
-
 - <b>Responsive Single Page Website</b>
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
+- <b>Light Mode Dark Mode Website</b>
+  - [Light Mode Dark Mode Website](https://github.com/JuanGhantus/LightDarkMode)
+
+
+
 

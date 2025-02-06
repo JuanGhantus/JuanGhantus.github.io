@@ -17,7 +17,7 @@
   - [Infinte Scrolling](https://github.com/JuanGhantus/InfiniteScrolling)
 - <b>Button Allowing Picture in Picture via screen capture</b>
   - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
-- <b>Rabdom Joke Generator using joke API</b>
+- <b>Random Joke Generator using joke API</b>
   - [Joke Teller](https://github.com/JuanGhantus/JokeTeller)
 - <b>Responsive Single Page Website</b>
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)

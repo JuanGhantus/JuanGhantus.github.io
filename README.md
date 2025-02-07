@@ -23,6 +23,8 @@
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
 - <b>Light Mode Dark Mode Website</b>
   - [Light Mode Dark Mode Website](https://github.com/JuanGhantus/LightDarkMode)
+- <b>Variety of Animations on Website</b>
+  - [Animated Website](https://github.com/JuanGhantus/AnimatedWebsite)
 
 
 

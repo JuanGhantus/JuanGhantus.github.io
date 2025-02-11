@@ -21,10 +21,12 @@
   - [Joke Teller](https://github.com/JuanGhantus/JokeTeller)
 - <b>Responsive Single Page Website</b>
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
-- <b>Light Mode Dark Mode Website</b>
+- <b>Light Mode Dark Mode Switch</b>
   - [Light Mode Dark Mode Website](https://github.com/JuanGhantus/LightDarkMode)
 - <b>Variety of Animations on Website</b>
   - [Animated Website](https://github.com/JuanGhantus/AnimatedWebsite)
+- <b>Animated Navigation Bar</b>
+  - [Animated Navigation](https://github.com/JuanGhantus/animatedNavigation)
 
 
 

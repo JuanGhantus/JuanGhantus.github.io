@@ -11,6 +11,12 @@
  
 <h2>👨‍💻 Web Development Projects:</h2>
 
+- <b>Sign Up Form with Validation</b>
+  - [Form Validation](https://github.com/JuanGhantus/formValidation)
+- <b>Animated Navigation Bar</b>
+  - [Animated Navigation](https://github.com/JuanGhantus/animatedNavigation)
+- <b>Responsive Single Page Website</b>
+  - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
 - <b>Generating random quotes with Quote API</b>
   - [Quote Generator](https://github.com/JuanGhantus/QuoteGenerator)
 - <b>Infinite Scrolling through random pictures with Unsplash Infinite Scrolling API</b>
@@ -19,14 +25,11 @@
   - [Picture in Picture](https://github.com/JuanGhantus/PictureInPicture)
 - <b>Random Joke Generator using joke API</b>
   - [Joke Teller](https://github.com/JuanGhantus/JokeTeller)
-- <b>Responsive Single Page Website</b>
-  - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
 - <b>Light Mode Dark Mode Switch</b>
   - [Light Mode Dark Mode Website](https://github.com/JuanGhantus/LightDarkMode)
 - <b>Variety of Animations on Website</b>
   - [Animated Website](https://github.com/JuanGhantus/AnimatedWebsite)
-- <b>Animated Navigation Bar</b>
-  - [Animated Navigation](https://github.com/JuanGhantus/animatedNavigation)
+
 
 
 

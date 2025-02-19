@@ -17,6 +17,8 @@
   - [Animated Navigation](https://github.com/JuanGhantus/animatedNavigation)
 - <b>Responsive Single Page Website</b>
   - [Responsive Website](https://github.com/JuanGhantus/ResponsiveWebSite)
+- <b>Rock Paper Scissors Game</b>
+  - [Rock Paper Scissors](https://github.com/JuanGhantus/RockPaperScissors)
 - <b>Generating random quotes with Quote API</b>
   - [Quote Generator](https://github.com/JuanGhantus/QuoteGenerator)
 - <b>Infinite Scrolling through random pictures with Unsplash Infinite Scrolling API</b>
